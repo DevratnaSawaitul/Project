@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="new_user_register_now">new user! Register Now</string>
+    <string name="sign_in">Sign in</string>
+    <string name="all_rights_reserved1">®all rights reserved</string>
+    <string name="select_what_you_want_to_do">select what you want to do</string>
+    <string name="welcome_user">Welcome user!</string>
+    <string name="email_address_relativelayout"><![CDATA[Email address: /> </RelativeLayout>]]></string>
+    <string name="dummy_text1">Hii I am Devratna Rameshwar Sawaitul Creator of this application. I am pursuing my B.E. from Kavikulguru Institute Of Technology And Science Ramtek.
+    I started building applications in my  3rd year of Engineering, and now I am looking my future into it. this is all about me:)</string>
+</resources>
